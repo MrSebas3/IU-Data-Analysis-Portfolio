@@ -18,7 +18,7 @@ Die Implementierung umfasst folgende Schritte:
 
 ## Installation & Ausführung
 
-## 🚀 Installation & Ausführung
+##  Installation & Ausführung
 
 Folge diesen vier einfachen Schritten, um die Entwicklungsumgebung lokal einzurichten und das Jupyter Notebook auszuführen:
 
@@ -29,7 +29,7 @@ git clone [https://github.com/MrSebas3/IU-Data-Analysis-Portfolio](https://githu
 cd IU-Data-Analysis-Portfolio
 ```
 
-2. Virtuelle Umgebung einrichten & aktivieren
+### 2. Virtuelle Umgebung einrichten & aktivieren
 
 Es wird empfohlen, eine virtuelle Umgebung (venv) zu erstellen, um Konflikte mit anderen Python-Paketen zu vermeiden:
 Windows:
@@ -43,14 +43,14 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-3. Abhängigkeiten installieren
+### 3. Abhängigkeiten installieren
 
 Installiere alle für dieses Projekt benötigten Bibliotheken automatisiert über die bereitgestellte requirements.txt:
 ````bash
 pip install -r requirements.txt
 ````
 
-4. Jupyter Notebook starten
+### 4. Jupyter Notebook starten
 
 Starte die interaktive Entwicklungsumgebung. Dein Standard-Webbrowser sollte sich automatisch mit dem Dashboard öffnen:
 ````bash
