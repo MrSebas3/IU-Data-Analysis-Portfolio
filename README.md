@@ -18,8 +18,6 @@ Die Implementierung umfasst folgende Schritte:
 
 ## Installation & Ausführung
 
-##  Installation & Ausführung
-
 Folge diesen vier einfachen Schritten, um die Entwicklungsumgebung lokal einzurichten und das Jupyter Notebook auszuführen:
 
 ### 1. Repository klonen
