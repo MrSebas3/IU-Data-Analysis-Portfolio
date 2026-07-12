@@ -21,3 +21,12 @@ Die Implementierung umfasst folgende Schritte:
 1. **Repository klonen:**
    ```bash
    git clone https://github.com/MrSebas3/IU-Data-Analysis-Portfolio
+   ```
+
+2. Repository klonen.
+
+3. Virtuelle Umgebung aktivieren.
+
+4. pip install -r requirements.txt ausführen.
+
+5. jupyter notebook starten.
