@@ -1,6 +1,6 @@
 # NLP-basierte Analyse von Bürgerbeschwerden (IU Portfolio)
 
-Dieses Repository enthält die praktische Umsetzung der Erarbeitungs- und Reflexionsphase (Phase 2) für das Modul **Projekt: Data Analysis (DLBDSEDA02_D)** an der IU Internationalen Hochschule.
+Dieses Repository enthält die praktische Umsetzung der Erarbeitungs- und Reflexionsphase (Phase 2) für das Modul **Projekt: Data Analysis** an der IU Internationalen Hochschule.
 
 ## Projektübersicht
 Im Rahmen dieses Projekts wird eine NLP-Pipeline in Python implementiert, um unstrukturierte Textdaten (Beschwerden) systematisch zu analysieren. Ziel ist es, mithilfe von Machine-Learning- und Natural-Language-Processing-Techniken die am häufigsten diskutierten Themen automatisiert zu extrahieren, um Entscheidungsträgern in einer Kommune eine datenbasierte Handlungsgrundlage zu bieten.
