@@ -20,5 +20,4 @@ Die Implementierung umfasst folgende Schritte:
 
 1. **Repository klonen:**
    ```bash
-   git clone [https://github.com/DEIN-BENUTZERNAME/DEIN-REPO-NAME.git](https://github.com/DEIN-BENUTZERNAME/DEIN-REPO-NAME.git)
-   cd DEIN-REPO-NAME
+   git clone https://github.com/MrSebas3/IU-Data-Analysis-Portfolio
