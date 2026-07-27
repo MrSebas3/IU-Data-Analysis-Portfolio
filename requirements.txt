@@ -3,4 +3,5 @@ numpy
 nltk
 spacy
 scikit-learn
-notebook
+Notebook
+gensim
